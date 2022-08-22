@@ -1,0 +1,15 @@
+F:\T2106\C Sharp\Git\Bank\Bank\bin\Debug\net6.0\Bank.exe
+F:\T2106\C Sharp\Git\Bank\Bank\bin\Debug\net6.0\Bank.deps.json
+F:\T2106\C Sharp\Git\Bank\Bank\bin\Debug\net6.0\Bank.runtimeconfig.json
+F:\T2106\C Sharp\Git\Bank\Bank\bin\Debug\net6.0\Bank.dll
+F:\T2106\C Sharp\Git\Bank\Bank\bin\Debug\net6.0\Bank.pdb
+F:\T2106\C Sharp\Git\Bank\Bank\obj\Debug\net6.0\Bank.csproj.AssemblyReference.cache
+F:\T2106\C Sharp\Git\Bank\Bank\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+F:\T2106\C Sharp\Git\Bank\Bank\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+F:\T2106\C Sharp\Git\Bank\Bank\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+F:\T2106\C Sharp\Git\Bank\Bank\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+F:\T2106\C Sharp\Git\Bank\Bank\obj\Debug\net6.0\Bank.dll
+F:\T2106\C Sharp\Git\Bank\Bank\obj\Debug\net6.0\refint\Bank.dll
+F:\T2106\C Sharp\Git\Bank\Bank\obj\Debug\net6.0\Bank.pdb
+F:\T2106\C Sharp\Git\Bank\Bank\obj\Debug\net6.0\Bank.genruntimeconfig.cache
+F:\T2106\C Sharp\Git\Bank\Bank\obj\Debug\net6.0\ref\Bank.dll
